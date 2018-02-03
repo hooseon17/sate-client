@@ -11,7 +11,7 @@ export default class Search extends React.Component {
                     <div class="content-wrap">
                         <h1>Sate</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates dolore delectus quia iure possimus laborum expedita
-                            ex inventore ea aliquid.</p>
+                            ex inventore ea aliquisssd.</p>
                         <a href="#showcase" class="btn">Register</a>
                     </div>
                 </div>
