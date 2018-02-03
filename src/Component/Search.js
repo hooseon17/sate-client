@@ -11,7 +11,7 @@ export default class Search extends React.Component {
                     <div class="content-wrap">
                         <h1>Sate</h1>
                         <p>Your Food Recommdator to help pick out the best spot for your fav meal.</p>
-                        <a href="#showcase" class="btn">Register</a>
+                        <a href="#showcase" class="btn">Search</a>
                     </div>
                 </div>
 
