@@ -83,9 +83,8 @@ export default class Search extends React.Component {
                     <div className="bg-image"></div>
                     <div className="content-wrap">
                         <h1>Sate</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates dolore delectus quia iure possimus laborum expedita
-                            ex inventore ea aliquisssd.</p>
-                        <a href="#showcase" className="btn">Register</a>
+                        <p>Your Food Recommdator to help pick out the best spot for your fav meal.</p>
+                        <a href="#showcase" class="btn">Search</a>
                     </div>
                 </div>
                 <ShowList restaurants={this.state.restaurants} listAvailable={listAvailable} />
